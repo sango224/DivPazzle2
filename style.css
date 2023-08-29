@@ -1,8 +1,8 @@
 @charset "utf-8";
-.clearfix::after {
-  content: "";
-  display: block;
-  clear: both;
+.clearfix::after{
+	content: "";
+	display: block;
+	clear: both;
 }
 .red{
   width: 400px;
@@ -16,27 +16,28 @@
   float: left;
 }
 .purple{
-  width: 150px;
+  width: 300px;
   height: 50px;
   background: #cc00db;
-  float: left;
 }
 .orange{
   width: 100px;
   height: 150px;
   background: #ff9b6e;
   float: left;
+  margin-top: -50px;
 }
 .blue{
-  width: 400px;
+  width: 150px;
   height: 100px;
   background: #0093b7;
-  margin-top: 50px;
+  float: left;
 }
 .brawn{
-  width: 400px;
+  width: 250px;
   height: 100px;
   background: #8c2727;
+  margin: -100px 0 0 150px;
 }
 .yellow{
   width: 400px;
