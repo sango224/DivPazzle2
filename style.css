@@ -1,6 +1,5 @@
 @charset "utf-8";
-.clearfix::after
-{
+.clearfix::after{
 	content: "";
 	display: block;
 	clear: both;
@@ -31,6 +30,8 @@
   width: 150px;
   height: 100px;
   background: #0093b7;
+}
+.purple-blue{
   float: left;
 }
 .brawn{
@@ -43,4 +44,5 @@
   width: 400px;
   height: 100px;
   background: #fff700;
+  float: left;
 }
