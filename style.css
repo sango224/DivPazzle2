@@ -34,15 +34,16 @@
 .purple-blue{
   float: left;
 }
+.p-b-o-b{
+  float: left;
+}
 .brawn{
   width: 250px;
   height: 100px;
   background: #8c2727;
-  float: left;
 }
 .yellow{
   width: 400px;
   height: 100px;
   background: #fff700;
-  float: left;
 }
